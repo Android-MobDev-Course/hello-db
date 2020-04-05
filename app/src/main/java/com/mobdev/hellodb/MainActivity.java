@@ -19,9 +19,7 @@ import androidx.core.content.ContextCompat;
  */
 public class MainActivity extends AppCompatActivity {
 
-    private static final int MY_PERMISSIONS_REQUEST_ACCESS_EXTERNAL_STORAGE = 54;
-
-	public static String TAG = "HelloBD";
+	public static String TAG = "HelloDB";
 	
 	private Context mContext = null;
 	
