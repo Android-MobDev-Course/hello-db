@@ -1,7 +1,5 @@
 package com.mobdev.hellodb;
 
-import java.util.ArrayList;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import java.util.ArrayList;
 
 /**
  * Created by Marco Picone (picone.m@gmail.com) 20/03/2020

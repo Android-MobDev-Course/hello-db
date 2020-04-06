@@ -1,7 +1,5 @@
 package com.mobdev.hellodb;
 
-import java.util.Random;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -13,6 +11,8 @@ import android.widget.ImageButton;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import java.util.Random;
 
 /**
  * A placeholder fragment containing a simple view.
